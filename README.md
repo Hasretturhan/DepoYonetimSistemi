@@ -52,17 +52,4 @@ Proje, nesne tabanlı analiz ve tasarım prensiplerine uygun olarak geliştirilm
 
 ---
 
-## Mimari ve Tasarım
-
-Proje aşağıdaki UML diyagramları ile tasarlanmıştır:
-
-- Use-Case Diyagramı  
-- Sequence Diyagramları (Ürün Ekle, Stok Çıkışı)  
-- Sınıf Diyagramı (Class Diagram)
-
-Tasarımda kapsülleme, tek sorumluluk, kalıtım ve modülerlik prensipleri dikkate alınmıştır.
-
----
-
-## Proje Yapısı
 
